@@ -132,3 +132,5 @@ husband(+X) is failure
 Print husband of X
 */
 husband(X):-husband(Y,X), print(Y), nl,!, fail.
+
+//////////////213emkdmqfafjksamdjnakjnfsjdnf
